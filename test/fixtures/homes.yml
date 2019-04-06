@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nav_logo: MyString
+  car_img_competences: MyString
+  car_img_projets: MyString
+  car_img_appli: MyString
+  car_title_competences: MyString
+  car_title_projets: MyString
+  car_title_appli: MyString
+  car_description_competences: MyText
+  car_description_projets: MyText
+  car_description_appli: MyText
+  pres_title: MyString
+  pres_description: MyText
+  pres_img: MyString
+  is_index: false
+
+two:
+  nav_logo: MyString
+  car_img_competences: MyString
+  car_img_projets: MyString
+  car_img_appli: MyString
+  car_title_competences: MyString
+  car_title_projets: MyString
+  car_title_appli: MyString
+  car_description_competences: MyText
+  car_description_projets: MyText
+  car_description_appli: MyText
+  pres_title: MyString
+  pres_description: MyText
+  pres_img: MyString
+  is_index: false
